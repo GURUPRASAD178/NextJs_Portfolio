@@ -39,6 +39,12 @@ Portfolio : https://guruprasad-hd.netlify.app/
 
 ```bash
 git clone https://github.com/GURUPRASAD178/NextJs-Portfolio.git
+```
+
+### 2. Install Dependencies
+
+```bash
 cd NextJs-Portfolio
 npm install
 npm start
+```
